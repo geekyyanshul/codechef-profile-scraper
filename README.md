@@ -1,7 +1,7 @@
 CodeChef Profile Scraper
 
 A full-stack web application that scrapes and displays a user's CodeChef profile statistics. Enter a CodeChef username to fetch their rating, rank, and more.
-
+ 
  Features
 
 User Profile Stats: Fetches Name, Username, Rating, and Star Rating.
@@ -22,7 +22,7 @@ This project is built with a separate frontend and backend.
 
 Backend:
 
-Node.js
+Node.js 
 
 Express (For the REST API)
 
