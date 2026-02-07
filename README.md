@@ -9,7 +9,7 @@ User Profile Stats: Fetches Name, Username, Rating, and Star Rating.
 Rankings: Displays Global and Country ranks.
 
 Profile Picture: Shows the user's profile picture.
-
+ 
 Direct Link: Provides a clickable link to the user's CodeChef profile.
 
 Error Handling: Gracefully handles invalid usernames or server errors.
