@@ -5,7 +5,7 @@ A full-stack web application that scrapes and displays a user's CodeChef profile
  Features
 
 User Profile Stats: Fetches Name, Username, Rating, and Star Rating.
-
+  
 Rankings: Displays Global and Country ranks.
 
 Profile Picture: Shows the user's profile picture.
